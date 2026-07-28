@@ -6,7 +6,7 @@
 ![image alt](https://github.com/muskan2862/tool-lending-library/blob/b0b87c769075802a18cf041774957679a4104cf4/Screenshot%202026-07-28%20170314.png)
 
 #Tools Management
-![image alt]()
+![image alt](https://github.com/muskan2862/tool-lending-library/blob/af746fbc43c92321a06d2565e451446aeb470397/Screenshot%202026-07-28%20170326.png)
 
 #Categories
 ![image alt]()
