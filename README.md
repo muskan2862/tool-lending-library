@@ -15,4 +15,4 @@
 ![image alt](https://github.com/muskan2862/tool-lending-library/blob/cf1b27ced9e5e3e97401f001e59864c1d756be4b/Screenshot%202026-07-28%20170348.png)
 
 #Settings
-![image alt]()
+![image alt](https://github.com/muskan2862/tool-lending-library/blob/b3bf52b7eb6b73955f9f2ca602e029bcd6da0ba7/Screenshot%202026-07-28%20170359.png)
