@@ -12,7 +12,7 @@
 ![image alt](https://github.com/muskan2862/tool-lending-library/blob/29aaca286d35c6baa2cae931cb6e952ca2989dec/Screenshot%202026-07-28%20170337.png)
 
 #Borrow Tool Modal
-![image alt]()
+![image alt](https://github.com/muskan2862/tool-lending-library/blob/cf1b27ced9e5e3e97401f001e59864c1d756be4b/Screenshot%202026-07-28%20170348.png)
 
 #Settings
 ![image alt]()
